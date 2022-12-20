@@ -1,2 +1,1 @@
-# sportsblog
-Sports Blog 
+# My Sports Blog Project
